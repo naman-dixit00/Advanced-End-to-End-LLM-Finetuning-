@@ -1,2 +1,16 @@
-# Finetuning---Large-Language-Model-llama_2-
-This Repo contains details about the end to end finetuning of llm  with some advanced techniques also like AdaLORA , FourierFT , MOE - FT .
+📌 Dataset List - 
+✅ ELWVB
+
+Tabular variation + outcome → you can generate natural-lang instructions
+
+Convert rows into “instruction → output” format
+
+✅ Pike Morphology
+
+Scientific structured data → good for reasoning
+
+Best for DeepSeek-R1 where reasoning quality matters
+
+✅ High-Speed Diffraction
+
+Optical / matrix / imaging → ideal for Vision-Tower part of Qwen2-VL
