@@ -203,9 +203,8 @@ project/
 
 ---
 
-## License
-
-This project is released under the **MIT License**.
+## Reference 
+https://huggingface.co/docs/trl/rloo_trainer
 
 ---
 
